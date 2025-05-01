@@ -24,10 +24,5 @@ pipeline {
                 echo "Suraj's file"
             }
         }
-        stage('Complete') { 
-            steps {
-                echo "Suraj's file"
-            }
-        }
     }
 }
